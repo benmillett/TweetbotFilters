@@ -1,1 +1,1 @@
-(?i)#otd|#?(national|world)(\w+)day
+(?i)#otd|#?(national|world)(\w+)day|#onthisday
